@@ -3,7 +3,7 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/netty-1-bio/netty-1-bio.iml" filepath="$PROJECT_DIR$/netty-1-bio/netty-1-bio.iml" />
-      <module fileurl="file://$PROJECT_DIR$/.idea/tengol-netty.iml" filepath="$PROJECT_DIR$/.idea/tengol-netty.iml" />
+      <module fileurl="file://$PROJECT_DIR$/tengol-netty.iml" filepath="$PROJECT_DIR$/tengol-netty.iml" />
     </modules>
   </component>
 </project>
