@@ -147,6 +147,7 @@ local.properties
 
 ### IntelliJ project files[Begin] ###
 .idea
+.idea/
 *.iml
 out
 gen
